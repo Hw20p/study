@@ -2,3 +2,4 @@
 
 console.log("Hello World!");
 console.log("싫어요 기능");
+console.log("찜하기 기능 추가");
